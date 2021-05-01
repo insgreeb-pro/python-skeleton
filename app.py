@@ -1,4 +1,1 @@
-import utils
-
-print("Halo Dunia!")
-print(utils.toMin(1345))
+print("Halo Dunia")
